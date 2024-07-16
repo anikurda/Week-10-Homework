@@ -19,4 +19,15 @@
     .section2 {
         width: calc(464 / 480 * 100%);
     }
+
+    /* Footer */
+    footer {
+        height: 619px;
+        padding: 32px 186px;
+    }
+
+    .footer_sections {
+        flex-direction: column;
+        row-gap: 32px;
+    }
 }

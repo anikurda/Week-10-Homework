@@ -20,4 +20,10 @@
     .s2a {
         width: 300px;
     }
+
+    /* Footer */
+    footer {
+        height: 224px;
+        padding: 40px 32px;
+    }
 }
