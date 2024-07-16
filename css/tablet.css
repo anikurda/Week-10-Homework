@@ -9,7 +9,7 @@
         display: none;
     }
 
-    button {
+    .header_button {
         display: none;
     }
 
@@ -65,4 +65,5 @@
         align-items: center;
     }
 
+   
 }
