@@ -1,0 +1,22 @@
+@media (max-width: 480px) {
+
+    /* Header */
+    header {
+        padding: 8px;
+    }
+
+    /* Section 1 */
+    .section1 {}
+
+    .section_button {
+        width: 180px;
+        height: 60px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /* Section 2 */
+    .section2 {
+        width: calc(464 / 480 * 100%);
+    }
+}
